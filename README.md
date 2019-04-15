@@ -1,4 +1,4 @@
-# box-auditlogs-node-es
+# newsbot-teams
 This AWS Lambda function is Getting News from Google News and post to Microsoft Teams.
 
 # Dependency
